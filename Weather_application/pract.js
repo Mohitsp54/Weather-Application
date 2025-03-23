@@ -9,7 +9,6 @@ const options = {
   day: "numeric",
   hour: "numeric",
   minute: "numeric",
-  //   second: "numeric",
 };
 
 const formatter = new Intl.DateTimeFormat("en-US", options);
