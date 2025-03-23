@@ -11,4 +11,4 @@ HTML, CSS, JavaScript, Fetch API
 > * Error handling for invalid city names or failed API requests to ensure a smooth user experience.
 > * Optimized code for readability and performance.
 ### Outcome: 
-Demonstrated proficiency in front-end development, asynchronous JavaScript programming, and API integration.
+Demonstrated proficiency in front-end development, asynchronous JavaScript programming, API integration.
